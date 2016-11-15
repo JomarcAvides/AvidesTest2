@@ -1,8 +1,12 @@
-body {
-	color:cyan;
-	background-color: green;
+h1 {
+	color:navy;
+	background-color: lime;
 	font-family: Arial;
 }
 
-
+h2 {
+	color:blue
+	background-color: red;
+	font-family: Arial;
+}
 

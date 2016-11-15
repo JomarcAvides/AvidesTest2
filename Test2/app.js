@@ -1,8 +1,9 @@
 $(document).ready(function(){
-	$("#heading").css("color","pink");
+	$("body").css("color","lime");
 });
 
+	$("h2").css("color","yellow");
 
-
+};
 
 
